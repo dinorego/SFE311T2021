@@ -18,7 +18,7 @@ if __name__ == '__main__':
     # few test cases, formal test in unit test file
     print(expanded_form(10000))
     print(expanded_form(10001))
-    print(expanded_form(5))
-    print(expanded_form(68))
-    print(expanded_form(5934))
+    #print(expanded_form(5))
+    #print(expanded_form(68))
+    #print(expanded_form(5934))
     
